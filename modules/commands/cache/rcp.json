@@ -1,0 +1,22 @@
+[
+    {
+        "root": "100050999371837",
+        "head": "100084737685409",
+        "isWaiting": true,
+        "isStarted": false,
+        "isError": false,
+        "rootIsIncognito": true,
+        "headIsIncognito": true,
+        "isRandom": false
+    },
+    {
+        "root": "100000321332736",
+        "head": "100059538169739",
+        "isWaiting": true,
+        "isStarted": false,
+        "isError": false,
+        "rootIsIncognito": true,
+        "headIsIncognito": true,
+        "isRandom": true
+    }
+]
